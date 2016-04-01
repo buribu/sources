@@ -139,3 +139,9 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+
+#sqlite blob
+
+*.db
+*.gz
+*.sql

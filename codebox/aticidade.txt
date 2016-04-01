@@ -1,0 +1,6 @@
+1) quais são as fases projeto?
+2) o que é preciso considerar para o desenvolvimento de um projeto?
+
+3) escreva 3 vantagens de se adotar um modelo de processo de engenharia de software.
+4) qual é a fase do projeto que requer mais atenção?
+

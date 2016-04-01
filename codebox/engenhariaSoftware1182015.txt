@@ -1,0 +1,22 @@
+1) quais são as aplicações de um software?
+um software se aplica a uma gama muito grande de atividades/negocios/probkemas
+
+2) escreva uma definição de engenharia de software?
+é um procedimento de plano/projeto/execução
+com o objetivo de purgar qualquer lacuna no desenvolvimento
+
+3) explique a importancia de custo de desenvolvimento e teste do software.
+importancia fundamental. o custo deve ser calculado de modo a atender
+a demanda de tempo e recursos utilizados no desenvolvimento
+
+o teste de software é necessario. se uma aplicação é desenvolvida 
+faz-se necessario saber se ela atende ao que foi requisitado
+4) descreva processo e modelo de processo de software.
+padroes estabelecidos para facilitar o desenvolvimento de um projeto.
+5) em qual momento o software tem seu custo elevado?
+manutenção não planejada, problemas de desenvolvimento não previsto no planejamento,
+
+
+6) quais os atributos de um bom software?
+um software que atenda o cliente conforme foi planejado
+e seu desenvolvimento preveja uma possivel evolução.

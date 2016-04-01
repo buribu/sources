@@ -1,0 +1,27 @@
+Leonardo Pinheiro 1362241
+
+
+Qual a importancia do software para você?
+fundamental, redes sociais, banco, o cotidiano é todo pontuado por uso de software.
+
+
+Descreva os problemas associados aos sofwares.
+
+sofware que contempla parcialmente a solução de um problema.
+quase sempre a solução encontrada é a melhor solução.
+erros não previstos, bugs, falhas
+Mal planejamento na produção do sistema.
+
+O que é um programa?
+um programa é um conjunto ordenado de instruções
+desenvolvido para solucionar um problema.
+
+Escreva desafios da nova era relacionados a software hoje.
+Manter as empresas compepitivas no mundo globalizado requer
+um bom suporte e adequação dos programas as reais necessidades do negocio.
+O sofware pode ajudar ou atrapalhar uma empresa a se posicionar no mercado.
+O desafio é adender a demanda das empresas em tempo hábil
+para fazer a diferença.
+
+O que você entendeu por engenharia de software?
+É a estrategia com a qual as pessoas envolvidas num determinado projeto de software adotam para equacionar problemas de uma empresa e inovar num mercado cada dia mais competitivo.

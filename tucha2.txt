@@ -1,0 +1,118 @@
+-rw-rw---- root     sdcard_r     1015 2015-07-25 21:20 .last_tmp.py
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 .read
+-rw-rw---- root     sdcard_r      222 2015-07-25 21:20 15721gastos.sql
+-rw-rw---- root     sdcard_r      686 2015-07-25 21:20 Exercicios.java
+drwxrwx--- root     sdcard_r          2015-07-25 21:20 Pythonsrc
+-rw-rw---- root     sdcard_r     2180 2015-07-25 21:20 QuadradoMagico.java
+-rw-rw---- root     sdcard_r     1003 2015-07-25 21:20 README.txt
+drwxrwx--- root     sdcard_r          2015-07-25 21:20 Site
+-rw-rw---- root     sdcard_r   742686 2015-07-25 21:20 Site.zip
+-rw-rw---- root     sdcard_r      378 2015-07-25 21:20 abstract.c
+-rw-rw---- root     sdcard_r     7667 2015-07-25 21:20 agenda.c
+-rw-rw---- root     sdcard_r     7168 2015-07-25 21:20 banco.db
+-rw-rw---- root     sdcard_r     1300 2015-07-25 21:20 banco.sql
+drwxrwx--- root     sdcard_r          2015-12-26 17:22 bing
+-rw-rw---- root     sdcard_r     2069 2015-07-25 21:20 c4calculater.c
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 calisto.db
+-rw-rw---- root     sdcard_r      145 2015-07-25 21:20 casca.txt
+drwxrwx--- root     sdcard_r          2015-10-24 05:09 codebox
+-rw-rw---- root     sdcard_r      342 2015-07-25 21:20 contas.sql
+-rw-rw---- root     sdcard_r     9216 2015-07-25 21:20 dados.db
+-rw-rw---- root     sdcard_r      469 2015-07-25 21:20 db.txt
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 dddd.c
+-rw-rw---- root     sdcard_r       82 2015-07-25 21:20 dropbanco.sql
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 fff.c
+-rw-rw---- root     sdcard_r      240 2015-07-25 21:20 gastos.sql
+-rw-rw---- root     sdcard_r      379 2015-07-25 21:20 getstest.c
+-rw-rw---- root     sdcard_r   158904 2015-12-26 16:54 index.html
+-rw-rw---- root     sdcard_r       78 2015-07-25 21:20 itens.sql
+drwxrwx--- root     sdcard_r          2015-07-25 21:20 luasrc
+-rw-rw---- root     sdcard_r       20 2015-12-18 20:54 lucas.py
+-rw-rw---- root     sdcard_r      169 2015-07-25 21:20 main.c
+-rw-rw---- root     sdcard_r      150 2015-07-25 21:20 minhalib.c
+-rw-rw---- root     sdcard_r       23 2015-07-25 21:20 minhalib.h
+-rw-rw---- root     sdcard_r      191 2015-07-25 21:20 n.py
+-rw-rw---- root     sdcard_r      595 2015-07-25 21:20 none.c
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 p.c
+-rw-rw---- root     sdcard_r     1016 2015-07-25 21:20 phi.py
+-rw-rw---- root     sdcard_r   497664 2015-07-25 21:20 pivarm.db
+-rw-rw---- root     sdcard_r        0 2015-07-25 21:20 pool.db
+-rw-rw---- root     sdcard_r       51 2015-07-25 21:20 pool.sql
+drwxrwx--- root     sdcard_r          2015-07-25 21:20 projetoED1
+-rw-rw---- root     sdcard_r     2283 2015-07-25 21:20 projetoEstrAlmas.c
+-rw-rw---- root     sdcard_r   131104 2015-07-25 21:20 projetoEstrAlmas.exe
+-rw-rw---- root     sdcard_r      239 2015-07-25 21:20 saldos.sql
+-rw-rw---- root     sdcard_r   652764 2015-07-25 21:20 seacentcprm.sql
+-rw-rw---- root     sdcard_r      112 2015-07-25 21:20 situacao.py
+drwxrwx--- root     sdcard_r          2015-07-25 21:20 sqlite3src
+-rw-rw---- root     sdcard_r    74164 2015-07-25 21:20 sumcase
+-rw-rw---- root     sdcard_r      447 2015-07-25 21:20 sumcase.c
+-rw-rw---- root     sdcard_r     2048 2015-07-25 21:20 taringa.db
+-rw-rw---- root     sdcard_r      283 2015-07-25 21:20 template2.c
+-rw-rw---- root     sdcard_r       90 2015-07-25 21:20 templatenull.c
+-rw-rw---- root     sdcard_r     3072 2015-07-25 21:20 tes.db
+-rw-rw---- root     sdcard_r      220 2015-08-04 18:30 teste.lua
+-rw-rw---- root     sdcard_r      146 2015-07-26 20:13 testmoto.c
+-rw-rw---- root     sdcard_r      572 2015-08-01 19:44 tucha.tar.gz.gz
+-rw-rw---- root     sdcard_r      967 2015-07-28 19:34 tucha.txt
+-rw-rw---- root     sdcard_r        0 2015-12-26 18:59 tucha2.txt
+-rw-rw---- root     sdcard_r      449 2015-08-01 19:45 vn.py.gz
+-rw-rw---- root     sdcard_r      111 2015-07-25 21:20 x
+15721gastos.sql
+Exercicios.java
+Pythonsrc
+QuadradoMagico.java
+README.txt
+Site
+Site.zip
+abstract.c
+agenda.c
+banco.db
+banco.sql
+bing
+c4calculater.c
+calisto.db
+casca.txt
+codebox
+contas.sql
+dados.db
+db.txt
+dddd.c
+dropbanco.sql
+fff.c
+gastos.sql
+getstest.c
+index.html
+itens.sql
+luasrc
+lucas.py
+main.c
+minhalib.c
+minhalib.h
+n.py
+none.c
+p.c
+phi.py
+pivarm.db
+pool.db
+pool.sql
+projetoED1
+projetoEstrAlmas.c
+projetoEstrAlmas.exe
+saldos.sql
+seacentcprm.sql
+situacao.py
+sqlite3src
+sumcase
+sumcase.c
+taringa.db
+template2.c
+templatenull.c
+tes.db
+teste.lua
+testmoto.c
+tucha.tar.gz.gz
+tucha.txt
+tucha2.txt
+vn.py.gz
+x

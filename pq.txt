@@ -1,0 +1,11 @@
+	/*Pcodeigniter daivisonor que eu instalei este programa?*/
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void){
+	int a, b;
+	printf("bucetinha");
+	system("pause");
+	return 0;
+	
+}

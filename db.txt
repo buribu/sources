@@ -1,0 +1,9 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE um(g integer primary key, nome text);
+INSERT INTO "um" VALUES(1,'temistocles');
+COMMIT;
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main                                                                       
+1    temp                                                                       
