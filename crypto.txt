@@ -1,0 +1,6 @@
+crypto moedas
+bitcoin
+tipo deposit withdraw transact origem datetime
+alias tipo... bitcoin faucetbox = penelope
+game add
+rastreaveis?

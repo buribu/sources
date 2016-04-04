@@ -1,0 +1,13 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE mangusto(codigo int primary key, nome varchar(30),telefone varchar(11));
+INSERT INTO "mangusto" VALUES(1,'leonardo','949512389');
+INSERT INTO "mangusto" VALUES(2,'tereza','644878958');
+INSERT INTO "mangusto" VALUES(3,'otavia','577488688');
+CREATE TABLE loja(num int primary key not null, nome varchar(20),endere varchar(30), tel decimal(11), cnpj numeric(11));
+INSERT INTO "loja" VALUES(180,'cudaçai','ipicilon 20',948123469,345679035);
+INSERT INTO "loja" VALUES(123,'cassandra','caiçara 18',948147245,62748957);
+INSERT INTO "loja" VALUES(134,'andrezin','roman 156',973452389,7457684);
+CREATE TABLE android_metadata (locale TEXT);
+INSERT INTO "android_metadata" VALUES('pt_BR');
+COMMIT;

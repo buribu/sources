@@ -1,0 +1,17 @@
+Leonardo Uchôa Pinheiro 1362241
+
+1)
+
+
+A) Por que demora tanto tempo para que os sistemas sejam concluidos?
+devido a dificuldade em afinar a equipe de desenvolvimento as expectativas/requisitos do cliente.
+B) Por que os custos são elevados?
+A manutenção geralmente é cara e inevitável devido as mudanças de requisitos , necessidade de ajustes e aumento de funcionalidades antes não previstas.
+C) Por que não descobrimos todos os erros antes de entregarmos o software aos nossos clientes?
+Só o uso real podera testar o software em todos os casos possiveis.
+D) Por que temos dificuldade em medir o progresso enquanto o software esta sendo desenvolvido?
+Porque a documentação não fica em total sintonia com o desenvolvimento.
+
+
+2) Descreva com suas palavras o conceito de teoria geral de sistemas?
+Quando um fator x pode sofrer influencia de fatores externos e internos, quando as varaveis que influenciam são muitas e vinda de todos os lados.

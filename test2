@@ -1,0 +1,52 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include <string.h>
+#include<locale.h>
+#define MAX 1000
+typedef struct pergunta{
+	char Q[MAX];
+	char R1[MAX];
+	char R2[MAX];
+	char R3[MAX];
+	char R4[MAX];
+	char C1[MAX];
+	
+	}Qu;
+struct lista{
+	struct pergunta Qu;
+	struct lista *prox;
+
+
+};
+typedef struct lista Lista;
+//int soma();
+void main(int argc, char **argv){ 
+   setlocale(LC_ALL,"Portuguese");
+   int n = 0;
+   Lista *li = (Lista*) malloc(sizeof(Lista));
+   
+   if(li == NULL){
+   	return 0;
+   }
+ //  if((*li) == NULL){
+  // 	*li = NULL;
+  // }
+   
+      Lista *no= (Lista*) malloc(sizeof(Lista));
+   
+   
+   
+  *no = *li;
+   
+   Qu q1;
+    
+   strcpy(q1.Q,"Araruta");
+  // *no->Qu.Q = &q1.Q;
+   
+   
+    printf("Digite um número:");
+	scanf("%d",&n);
+	
+	printf("%s",q1.Q);
+	free(li);
+	}

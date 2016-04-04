@@ -1,0 +1,70 @@
+ja se inscreveram no moodle?
+usabilidade ---------------+
+		x
+experiencia do usuario
+(user experience - UX)
+
+
+Nme do nosso criterio de qualidade na interação
+(humano-computador) 
+* como definir?
+2 formas: -- principios de usabilidade
+uma lista de criterios mais especificos
+
+heuristicas de usabilidade:
+uma lista reduzida de principios, focada no processo de avaliação
+
+
+principios de usabilidade 
+(segundo alandix e colegas)
+1) facilidade de aprendizagem
+previsibilidade
+familiaridade
+consistencia
+possibilidade de sintese
+possibilidade de generalização
+
+2) flexibilidade
+iniciativa de dialogo
+multiexecução
+tarefas migraveis
+substituição
+personalização
+
+3) robustez
+
+88692555 pin router maria angelica
+
+senha psk a1ngelica005859
+
+02/03/16
+
+usabilidade -> facilidade de aprendizagem
+(principios) alan dix
+
+*flexibilidade
+*robustez
+visibilidade do estado do sistema
+
+
+usabilidade -> aspectos de qualidade do produto
+
+experiencia
+do
+usuario -> efeito que o produto causa no usuario e no contexto ao redor
+
+avaliação heuristicas -> regras praticas de execução
+- Baseada em check-list
+- Feita com especialistas
+- explora uma interface preocupando por defeitos de usabilidade
+3 a 5 especialistas
+trabalham separadamente
+no final analisem a similaridades e diferenças e chegam a uma opinião de consenso.
+
+
+9
+
+
+
+
+

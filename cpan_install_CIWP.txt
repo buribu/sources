@@ -1,0 +1,67 @@
+
+ <install_help>
+
+
+Autoconfiguration complete.
+
+Attempting to bootstrap local::lib...
+
+Writing /data/data/com.termux/files/home/.cpan/CPAN/MyConfig.pm for bootstrap...
+commit: wrote '/data/data/com.termux/files/home/.cpan/CPAN/MyConfig.pm'
+Fetching with HTTP::Tiny:
+http://www.cpan.org/authors/01mailrc.txt.gz
+HTTP::Tiny failed with an internal error: Could not connect to 'www.cpan.org:80': No address associated with hostname
+
+
+Trying with
+    /data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325"
+to get
+    http://www.cpan.org/authors/01mailrc.txt.gz
+
+    Function system("/data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325" "http://www.cpan.org/authors/01mailrc.txt.gz" ")
+    returned status 1 (wstat 256)
+Warning: expected file [/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325] doesn't exist
+    Warning: no success downloading '/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325'. Giving up on it.
+
+Trying with
+    /data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325"
+to get
+    http://www.cpan.org/authors/01mailrc.txt.gz
+
+    Function system("/data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325" "http://www.cpan.org/authors/01mailrc.txt.gz" ")
+    returned status 1 (wstat 256)
+Warning: expected file [/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325] doesn't exist
+    Warning: no success downloading '/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325'. Giving up on it.
+No external ftp command available
+
+Fetching with HTTP::Tiny:
+http://www.cpan.org/authors/01mailrc.txt.gz
+HTTP::Tiny failed with an internal error: Could not connect to 'www.cpan.org:80': No address associated with hostname
+
+
+Trying with
+    /data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325"
+to get
+    http://www.cpan.org/authors/01mailrc.txt.gz
+
+    Function system("/data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325" "http://www.cpan.org/authors/01mailrc.txt.gz" ")
+    returned status 1 (wstat 256)
+Warning: expected file [/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325] doesn't exist
+    Warning: no success downloading '/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325'. Giving up on it.
+
+Trying with
+    /data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325"
+to get
+    http://www.cpan.org/authors/01mailrc.txt.gz
+
+    Function system("/data/data/com.termux/files/usr/bin/applets/wget -O "/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325" "http://www.cpan.org/authors/01mailrc.txt.gz" ")
+    returned status 1 (wstat 256)
+Warning: expected file [/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325] doesn't exist
+    Warning: no success downloading '/data/data/com.termux/files/home/.cpan/sources/authors/01mailrc.txt.gz.tmp7325'. Giving up on it.
+No external ftp command available
+
+Please check, if the URLs I found in your configuration file
+(http://www.cpan.org/) are valid. The urllist can be edited. E.g. with 'o
+conf urllist push ftp://myurl/'
+
+Could not fetch authors/01mailrc.txt.gz

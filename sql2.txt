@@ -1,0 +1,7 @@
+select codigo as cod,nome, estetica, cor from agenda, pref, carac where codigo = pref.cod and codigo = carac.cod and altura > 1.67  ORDER BY nome desc; 
+
+cod  nome      estetica  cor     
+---  --------  --------  --------
+3    fmonica   bonita    asiatica
+2    fjulieta  feia      parda   
+4    fbeatriz  linda     loira   

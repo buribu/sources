@@ -1,0 +1,5 @@
+num   nome           ende  tel   cnpj
+----  -------------  ----  ----  ----
+180   cudaçai       ipicilon 20  948123469  345679035
+123   cassandra      caiçara 18  948147245  62748957
+134   andrezin       roman 156  973452389  7457684

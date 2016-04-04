@@ -1,0 +1,6 @@
+cod  nome      comida    estetica
+---  --------  --------  --------
+1    leonardo  paçoca   feio    
+2    fjulieta  bife      feia    
+3    fmonica   caramelo  bonita  
+4    fbeatriz  manjar    linda   
